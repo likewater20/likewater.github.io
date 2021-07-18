@@ -1,11 +1,11 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+title: Likewater
+SEOTitle: Likewater的博客 | Likewater
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: 1455733065@qq.com
+description: "Likewater的博客"
+keyword: "Likewater, Likewater的博客, Likewater, Likewater, Python blog"
+url: "http://likewater.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-github_username: RainbomSea
+github_username: Likewater
 
 
 
